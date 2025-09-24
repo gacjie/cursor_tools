@@ -1,16 +1,17 @@
 # Cursor Tools - Cursor IDE 账号管理工具
 
 <div align="center">
-  <img src="app/resources/icons/app_logo.svg" width="128" height="128" alt="Cursor Tools Logo">
-  
+
   **一款专为 Cursor IDE 打造的账号和配置管理工具**
   
   [![Version](https://img.shields.io/badge/版本-v1.0.0-blue)](https://github.com/gacjie)
-  [![Platform](https://img.shields.io/badge/平台-Windows%20|%20macOS%20|%20Linux-green)](https://github.com/gacjie)
+  [![Platform](https://img.shields.io/badge/平台-Windows%20-green)](https://github.com/gacjie)
   [![QQ Group](https://img.shields.io/badge/QQ群-866292271-red)](https://qm.qq.com/cgi-bin/qm/qr?k=866292271)
 </div>
 
 ---
+## 🎨 演示图片   
+![demo](https://github.com/gacjie/cursor_tools/blob/main/demo.png?raw=true)
 
 ## 🚀 功能特点
 
@@ -146,4 +147,5 @@ Copyright ©2025-2029 GacJie. All rights reserved.
 
 <div align="center">
   <b>如果这个工具对您有帮助，请给个 ⭐ Star 支持一下！</b>
+
 </div>
