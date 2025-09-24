@@ -59,16 +59,6 @@
 1. 下载 `CursorTools_v1.0.0_Windows.exe`
 2. 双击运行即可，无需安装
 
-### macOS 用户
-1. 下载 `CursorTools_v1.0.0_macOS.dmg`
-2. 打开 DMG 文件，将应用拖入 Applications 文件夹
-3. 首次运行可能需要在系统偏好设置中允许运行
-
-### Linux 用户
-1. 下载 `CursorTools_v1.0.0_Linux.AppImage`
-2. 添加执行权限：`chmod +x CursorTools_v1.0.0_Linux.AppImage`
-3. 双击或终端运行
-
 ## 🎯 使用指南
 
 ### 首次使用
@@ -110,14 +100,6 @@
 - 应用数据：`%APPDATA%\CursorTools\`
 - Cursor 数据：`%APPDATA%\Cursor\` 和 `%USERPROFILE%\.cursor\`
 
-### macOS
-- 应用数据：`~/.cursortools/`
-- Cursor 数据：`~/.cursor/`
-
-### Linux
-- 应用数据：`~/.cursortools/`
-- Cursor 数据：`~/.cursor/`
-
 ## 🆘 常见问题
 
 ### Q: 切换账号后 Cursor IDE 没有变化？
@@ -137,7 +119,7 @@ A: 在系统偏好设置 → 安全性与隐私中允许运行此应用。
 - **作者**：GacJie
 - **官网**：[www.wepool.vip](https://www.wepool.vip)
 - **GitHub**：[github.com/gacjie](https://github.com/gacjie)
-- **QQ交流群**：866292271
+- **QQ交流群**：[AI Code IDE Studio(611135619)](https://qm.qq.com/q/HnbHjpP4wq)
 
 ## 📄 版权信息
 
@@ -149,3 +131,4 @@ Copyright ©2025-2029 GacJie. All rights reserved.
   <b>如果这个工具对您有帮助，请给个 ⭐ Star 支持一下！</b>
 
 </div>
+
