@@ -56,7 +56,7 @@
 ## 📦 安装使用
 
 ### Windows 用户
-1. 下载 [cursor_tools_v1.0.0_x86_64.zip](https://github.com/gacjie/cursor_tools/releases)
+1. 下载 [Cursor_Tools](https://github.com/gacjie/cursor_tools/releases)
 2. 双击运行即可，无需安装
 
 ## 🎯 使用指南
@@ -131,6 +131,7 @@ Copyright ©2025-2029 GacJie. All rights reserved.
   <b>如果这个工具对您有帮助，请给个 ⭐ Star 支持一下！</b>
 
 </div>
+
 
 
 
