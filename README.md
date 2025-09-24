@@ -49,7 +49,7 @@
 
 ## 💻 系统要求
 
-- **操作系统**：Windows 10/11、macOS 10.15+、Linux (Ubuntu 20.04+)
+- **操作系统**：Windows 10/11
 - **Cursor IDE**：需要已安装 Cursor IDE
 - **运行环境**：无需额外安装任何依赖
 
@@ -131,6 +131,7 @@ Copyright ©2025-2029 GacJie. All rights reserved.
   <b>如果这个工具对您有帮助，请给个 ⭐ Star 支持一下！</b>
 
 </div>
+
 
 
 
