@@ -6,7 +6,7 @@
   
   [![Version](https://img.shields.io/badge/版本-v1.0.0-blue)](https://github.com/gacjie)
   [![Platform](https://img.shields.io/badge/平台-Windows%20-green)](https://github.com/gacjie)
-  [![QQ Group](https://img.shields.io/badge/QQ群-866292271-red)](https://qm.qq.com/cgi-bin/qm/qr?k=866292271)
+  [![QQ Group](https://img.shields.io/badge/QQ群-611135619-red)](https://qm.qq.com/q/HnbHjpP4wq)
 </div>
 
 ---
@@ -131,4 +131,5 @@ Copyright ©2025-2029 GacJie. All rights reserved.
   <b>如果这个工具对您有帮助，请给个 ⭐ Star 支持一下！</b>
 
 </div>
+
 
